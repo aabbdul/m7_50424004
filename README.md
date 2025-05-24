@@ -24,11 +24,10 @@ root/
 │   ├── routes.py
 │   ├── models.py
 │   └── auth.py
-├── tests/
-│   └── test_app.py
 ├── requirements.txt
 ├── venv
 ├── run.py
+├── test.py
 ├── api_spec.yaml
 └── README.md
 └── .gitignore  
